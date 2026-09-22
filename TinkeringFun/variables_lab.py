@@ -10,3 +10,4 @@ power = work / time
 print("power:", power)
 print(type(power))
 
+# Mandatory change to test 
